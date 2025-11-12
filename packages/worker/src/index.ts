@@ -2,7 +2,7 @@ import { DomainRouterBuilder, domainRoutersHandler, type Env } from '@affine/uti
 
 import { AFFiNEWorker } from './affine.js';
 
-const WORKER_DOMAIN = 'affine-worker.toeverything.workers.dev';
+const WORKER_DOMAIN = 'affine-worker.linkzz.workers.dev';
 
 const affine = AFFiNEWorker();
 
